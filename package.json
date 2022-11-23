@@ -1,0 +1,12 @@
+{
+  "name": "my-vuejs-coding-samples",
+  "version": "1.0.0",
+  "description": "This project centralize examples of codes with good principles and patterns for developing components and tests",
+  "main": "index.js",
+  "repository": "git@github.com:ramon-src/my-vuejs-coding-samples.git",
+  "author": "Ramon Schmidt (ramonroc@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^3.2.45"
+  }
+}
